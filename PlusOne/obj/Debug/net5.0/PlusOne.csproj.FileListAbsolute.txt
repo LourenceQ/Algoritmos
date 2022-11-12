@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.exe
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.dll
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\PlusOne.pdb
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.dll
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\ref\PlusOne.dll
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.pdb
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\obj\Debug\net5.0\PlusOne.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\PlusOne\bin\Debug\net5.0\ref\PlusOne.dll

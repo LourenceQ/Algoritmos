@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.exe
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\bin\Debug\net5.0\TwoCityScheduling.pdb
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\refint\TwoCityScheduling.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.pdb
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\TwoCityScheduling.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoCityScheduling\obj\Debug\net5.0\ref\TwoCityScheduling.dll

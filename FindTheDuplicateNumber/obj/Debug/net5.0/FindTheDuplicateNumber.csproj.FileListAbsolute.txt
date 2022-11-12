@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.exe
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\bin\Debug\net5.0\FindTheDuplicateNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\refint\FindTheDuplicateNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\FindTheDuplicateNumber.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\FindTheDuplicateNumber\obj\Debug\net5.0\ref\FindTheDuplicateNumber.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWUQVUC1Z46zo+f5b1B/XdYgLPXFD8M1V11RX6BrxbrhDoX6OZPn3nmQD6pOSFmlbwSzzE0VoQRSUEksun9/7Q==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\palindromo\\palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

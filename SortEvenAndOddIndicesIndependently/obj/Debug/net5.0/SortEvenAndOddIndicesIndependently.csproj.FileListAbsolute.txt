@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.exe
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.dll
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\ref\SortEvenAndOddIndicesIndependently.dll
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\bin\Debug\net5.0\SortEvenAndOddIndicesIndependently.pdb
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.dll
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\ref\SortEvenAndOddIndicesIndependently.dll
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.pdb
+D:\MyCodingEnvironment\Training\LeetCode\SortEvenAndOddIndicesIndependently\obj\Debug\net5.0\SortEvenAndOddIndicesIndependently.genruntimeconfig.cache

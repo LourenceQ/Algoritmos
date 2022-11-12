@@ -1,0 +1,5 @@
+D:\MyCodingEnvironment\Training\LeetCode\ChampagneTower\obj\Debug\net5.0\ChampagneTower.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\ChampagneTower\obj\Debug\net5.0\ChampagneTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\ChampagneTower\obj\Debug\net5.0\ChampagneTower.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\ChampagneTower\obj\Debug\net5.0\ChampagneTower.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\ChampagneTower\obj\Debug\net5.0\ChampagneTower.csproj.CoreCompileInputs.cache

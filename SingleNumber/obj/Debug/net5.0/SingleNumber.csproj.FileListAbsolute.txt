@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.exe
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\ref\SingleNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\bin\Debug\net5.0\SingleNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\ref\SingleNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\SingleNumber\obj\Debug\net5.0\SingleNumber.genruntimeconfig.cache

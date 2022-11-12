@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.exe
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.dll
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\bin\Debug\net5.0\MinimumDominoRotationsForEqualRow.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.dll
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\refint\MinimumDominoRotationsForEqualRow.dll
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\MinimumDominoRotationsForEqualRow.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\MinimumDominoRotationsForEqualRow\obj\Debug\net5.0\ref\MinimumDominoRotationsForEqualRow.dll

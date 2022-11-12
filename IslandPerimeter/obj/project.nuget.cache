@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38WhiTrZg7gqVPNWTiQjFra3Ts4yYt+DX5VsTd61sa4nwJbgqQxjZBHizF6f61gAjvSbNrPGgIeo+DfS2i+Qvg==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\IslandPerimeter\\IslandPerimeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

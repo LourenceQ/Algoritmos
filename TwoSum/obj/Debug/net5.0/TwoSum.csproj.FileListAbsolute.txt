@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.exe
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\bin\Debug\net5.0\TwoSum.pdb
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.pdb
+D:\MyCodingEnvironment\Training\LeetCode\TwoSum\obj\Debug\net5.0\TwoSum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.exe
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.dll
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\bin\Debug\net5.0\3Sum.pdb
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.dll
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\refint\3Sum.dll
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.pdb
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\3Sum.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\3Sum\obj\Debug\net5.0\ref\3Sum.dll

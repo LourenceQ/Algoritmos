@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pd8zw+OIGsDaYjvnSSKVhW9zDDmS8JuKOJQCpERRe5JVKSlLmfYBqfWbncACq/5MYI+Gowv/i+xgsjVlNECTUw==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\FindNearestPointThatHasTheSameXOrYCoorinate\\FindNearestPointThatHasTheSameXOrYCoorinate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

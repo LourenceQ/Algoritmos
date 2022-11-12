@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.exe
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.dll
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\bin\Debug\net5.0\LongestCommomPrefix.pdb
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.dll
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\ref\LongestCommomPrefix.dll
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.pdb
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\LongestCommomPrefix.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\LongestCommomPrefix\obj\Debug\net5.0\refint\LongestCommomPrefix.dll

@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.exe
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.dll
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\ref\LargestPerimeterTriangle.dll
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\bin\Debug\net5.0\LargestPerimeterTriangle.pdb
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.dll
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\ref\LargestPerimeterTriangle.dll
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.pdb
+D:\MyCodingEnvironment\Training\LeetCode\LargestPerimeterTriangle\obj\Debug\net5.0\LargestPerimeterTriangle.genruntimeconfig.cache

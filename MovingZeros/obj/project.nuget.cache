@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xa/2HYC5szJxGJB4nb0fGqTAZtxWuTNA1mEXlN5bG2LPugFzt190hcPdvPqMxR5PajBaz3n4aixyH/4cYj7Y4A==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\MovingZeros\\MovingZeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.exe
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\ref\MissingNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\bin\Debug\net5.0\MissingNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\ref\MissingNumber.dll
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MissingNumber\obj\Debug\net5.0\MissingNumber.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MinimumDominoRotationsForEqualRow/1.0.0": {
+        "runtime": {
+          "MinimumDominoRotationsForEqualRow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumDominoRotationsForEqualRow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

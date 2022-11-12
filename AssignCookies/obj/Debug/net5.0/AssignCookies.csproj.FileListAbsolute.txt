@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.exe
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.dll
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\ref\AssignCookies.dll
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\bin\Debug\net5.0\AssignCookies.pdb
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.dll
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\ref\AssignCookies.dll
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.pdb
+D:\MyCodingEnvironment\Training\LeetCode\AssignCookies\obj\Debug\net5.0\AssignCookies.genruntimeconfig.cache

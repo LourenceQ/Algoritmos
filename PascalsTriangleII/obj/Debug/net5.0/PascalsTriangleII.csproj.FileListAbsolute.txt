@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.exe
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.dll
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\ref\PascalsTriangleII.dll
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\bin\Debug\net5.0\PascalsTriangleII.pdb
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.dll
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\ref\PascalsTriangleII.dll
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.pdb
+D:\MyCodingEnvironment\Training\LeetCode\PascalsTriangleII\obj\Debug\net5.0\PascalsTriangleII.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55K76M9iCZkxA8Sl219+SdG5lvhze51xPEELqXcdW06bnpei1Haw9hEAoVq5hrFx2Qz0yGYCBE5+e/DBz6dtGA==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

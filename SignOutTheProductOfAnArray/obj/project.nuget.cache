@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/9v2/N6gzsRgA2Tpx0+/HEB/NdOnzIWVMUc7KvqmnSVTxLj0/GidKun4A6I1yvEERu8mRlfclnKUGcFt1MBpQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\SignOutTheProductOfAnArray\\SignOutTheProductOfAnArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

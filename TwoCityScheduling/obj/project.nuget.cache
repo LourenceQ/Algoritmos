@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4zJbYfH2ZgKbtUrtZVUIDbyGUHNJM0t+TJZNCEqAldEUa+wQBf/ujvo3sWmYtsCxqdcDdhU7gLY5Ye1zQB8vw==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\TwoCityScheduling\\TwoCityScheduling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

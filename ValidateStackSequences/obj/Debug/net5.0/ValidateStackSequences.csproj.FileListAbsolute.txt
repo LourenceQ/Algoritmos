@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.exe
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.dll
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ref\ValidateStackSequences.dll
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\bin\Debug\net5.0\ValidateStackSequences.pdb
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.dll
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ref\ValidateStackSequences.dll
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.pdb
+D:\MyCodingEnvironment\Training\LeetCode\ValidateStackSequences\obj\Debug\net5.0\ValidateStackSequences.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6cF9dek3nlq9oRqtvEOklBPwZTnZUuFDzh3N9sOV8lg9x/zrEqohBA/YC1lOgB6BBHedRTUyLnkbFCPgCjyaw==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\HappyNumber\\HappyNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

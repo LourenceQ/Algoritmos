@@ -1,0 +1,16 @@
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.exe
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.deps.json
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.runtimeconfig.json
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.runtimeconfig.dev.json
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.dll
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\bin\Debug\net5.0\MaximumFrequencyStack.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.csproj.AssemblyReference.cache
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.AssemblyInfoInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.AssemblyInfo.cs
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.csproj.CoreCompileInputs.cache
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.dll
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\refint\MaximumFrequencyStack.dll
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.pdb
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\MaximumFrequencyStack.genruntimeconfig.cache
+D:\MyCodingEnvironment\Training\LeetCode\MaximumFrequencyStack\obj\Debug\net5.0\ref\MaximumFrequencyStack.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pT6HaRQdqluKfNuoCVZQNe414n1PqXoHbmw1dvT2+3dKfhcGNeVa/kE0EdKdemlcsP1Njb4eQilfGt45/h+byQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodingEnvironment\\Training\\LeetCode\\MergeStringsAlternately\\GoalParserInterpretation\\GoalParserInterpretation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
