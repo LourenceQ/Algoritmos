@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2187MinimumTimeToCompleteTripsProj", "MainProj\2187MinimumTimeToCompleteTripsProj.csproj", "{CE572178-D2CC-45F2-B9B1-60747E331FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2187MinimumTimeToCompleteTripsUnitTests", "xUnitTests\2187MinimumTimeToCompleteTripsUnitTests.csproj", "{04C4ED95-7A4D-4977-AB90-6667C0546206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE572178-D2CC-45F2-B9B1-60747E331FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE572178-D2CC-45F2-B9B1-60747E331FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE572178-D2CC-45F2-B9B1-60747E331FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE572178-D2CC-45F2-B9B1-60747E331FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C4ED95-7A4D-4977-AB90-6667C0546206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C4ED95-7A4D-4977-AB90-6667C0546206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C4ED95-7A4D-4977-AB90-6667C0546206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C4ED95-7A4D-4977-AB90-6667C0546206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
