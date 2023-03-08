@@ -9,23 +9,25 @@ public class UnitTest1
         yield return new object[] 
         { 
             new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' }
-            , new char[] { 'a', '2', 'b', '2', 'c', '3' }, 6 
+            , new char[] { 'a', '2', 'b', '2', 'c', '3' }
+            , 6 
         };
         yield return new object[] 
         { 
             new char[] { 'a' }
-            , new char[] { 'a' }, 1 
+            , new char[] { 'a' }
+            , 1 
         };
         yield return new object[] 
         { 
             new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }
-            , new char[] { 'a', 'b', '1', '2' }, 4 
+            , new char[] { 'a', 'b', '1', '2' }
+            , 4 
         };
     
     }
 
-    [Theory
-    , MemberData(nameof(GetArgs))]
+    [Theory, MemberData(nameof(GetArgs))]
     public void CompressTest(char[] input, char[] expectedOutput, int expectedLength)
     {
         var actualLength  = Solution.Compress(input);

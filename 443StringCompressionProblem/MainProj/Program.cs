@@ -1,5 +1,4 @@
-﻿namespace _443StringCompressionProj
-;
+﻿namespace _443StringCompressionProj;
 public static class Program
 {
     public static void Main(string[] args)
