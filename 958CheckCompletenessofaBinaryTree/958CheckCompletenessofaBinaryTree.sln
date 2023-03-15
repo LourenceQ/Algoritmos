@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "958CheckCompletenessofaBinaryTreeProj", "MainProj\958CheckCompletenessofaBinaryTreeProj.csproj", "{A624604F-8D5B-4136-AA9D-8FE09B4F486F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "958CheckCompletenessofaBinaryTreeTests", "xUnitTests\958CheckCompletenessofaBinaryTreeTests.csproj", "{AE1316DC-7345-47DF-A60A-21E5E3541A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A624604F-8D5B-4136-AA9D-8FE09B4F486F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A624604F-8D5B-4136-AA9D-8FE09B4F486F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A624604F-8D5B-4136-AA9D-8FE09B4F486F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A624604F-8D5B-4136-AA9D-8FE09B4F486F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1316DC-7345-47DF-A60A-21E5E3541A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1316DC-7345-47DF-A60A-21E5E3541A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1316DC-7345-47DF-A60A-21E5E3541A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1316DC-7345-47DF-A60A-21E5E3541A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
