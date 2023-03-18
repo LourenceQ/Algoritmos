@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "209MinimumSizeSubarraySumProj", "MainProj\209MinimumSizeSubarraySumProj.csproj", "{66B1A9A3-529A-44D1-BBFD-3C889188A76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "209MinimumSizeSubarraySumTests", "xUnit\209MinimumSizeSubarraySumTests.csproj", "{569ACF99-90F3-4B26-A92F-67DCD2FB14A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B1A9A3-529A-44D1-BBFD-3C889188A76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B1A9A3-529A-44D1-BBFD-3C889188A76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B1A9A3-529A-44D1-BBFD-3C889188A76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B1A9A3-529A-44D1-BBFD-3C889188A76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569ACF99-90F3-4B26-A92F-67DCD2FB14A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569ACF99-90F3-4B26-A92F-67DCD2FB14A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569ACF99-90F3-4B26-A92F-67DCD2FB14A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569ACF99-90F3-4B26-A92F-67DCD2FB14A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
