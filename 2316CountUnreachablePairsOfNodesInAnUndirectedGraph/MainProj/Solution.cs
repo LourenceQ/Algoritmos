@@ -62,7 +62,7 @@ public class Solution
         return (long)(result / 2);
     }
 
-    private int Dfs(int i, HashSet<int>[] paths, HashSet<int> visited)
+    public int Dfs(int i, HashSet<int>[] paths, HashSet<int> visited)
     {
         if (visited.Contains(i))
             return 0;
