@@ -7,14 +7,14 @@ namespace _3Sum
     {
         static void Main(string[] args)
         {
-            int[] nums = {-1,0,1,2,-1,-4};
+            int[] nums = [-1, 0, 1, 2, -1, -4];
             ThreeSum(nums);
             Console.WriteLine("Hello World!");
         }
 
         public static IList<IList<int>> ThreeSum(int[] nums)
         {
-            List<IList<int>> res = new List<IList<int>>();
+            List<IList<int>> res = [];
             if (nums == null || nums.Length < 3)
                 return res;
 
@@ -32,7 +32,7 @@ namespace _3Sum
                 {
                     if (nums[i] + nums[left] + nums[right] == 0)
                     {
-                        res.Add(new List<int>() { nums[i], nums[left], nums[right] });
+                        res.Add([nums[i], nums[left], nums[right]]);
                         left++;
                         right--;
 
