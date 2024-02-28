@@ -10,6 +10,8 @@ public static class Program
     {
         Stack<char> st = new Stack<char>();
 
+        if (string.IsNullOrEmpty(s))
+            return false;
 
         foreach (var item in s.ToCharArray())
         {
