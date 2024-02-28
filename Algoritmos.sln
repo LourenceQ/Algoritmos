@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreSumProblem", "3Sum\ThreSumProblem.csproj", "{B1014C96-9754-46AE-9882-EB6CFD7B1BC1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThreeSum", "ThreeSum", "{97FC0935-7A91-42DF-8703-2B4220F81259}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThreeSum", "ThreeSum", "{7ADA5434-F7AC-452C-86A4-3FC179296A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSumAlgorithm", "ThreeSumAlgorithm\ThreeSumAlgorithm.csproj", "{2C912847-8F36-4D4D-A80F-5D3C0EC7701C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSumTestSuit", "ThreeSumTestSuit\ThreeSumTestSuit.csproj", "{FCAB7E35-256C-4606-A886-A766F68F4AAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +15,21 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B1014C96-9754-46AE-9882-EB6CFD7B1BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1014C96-9754-46AE-9882-EB6CFD7B1BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1014C96-9754-46AE-9882-EB6CFD7B1BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1014C96-9754-46AE-9882-EB6CFD7B1BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C912847-8F36-4D4D-A80F-5D3C0EC7701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C912847-8F36-4D4D-A80F-5D3C0EC7701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C912847-8F36-4D4D-A80F-5D3C0EC7701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C912847-8F36-4D4D-A80F-5D3C0EC7701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAB7E35-256C-4606-A886-A766F68F4AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAB7E35-256C-4606-A886-A766F68F4AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAB7E35-256C-4606-A886-A766F68F4AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAB7E35-256C-4606-A886-A766F68F4AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B1014C96-9754-46AE-9882-EB6CFD7B1BC1} = {7ADA5434-F7AC-452C-86A4-3FC179296A0C}
+		{2C912847-8F36-4D4D-A80F-5D3C0EC7701C} = {97FC0935-7A91-42DF-8703-2B4220F81259}
+		{FCAB7E35-256C-4606-A886-A766F68F4AAA} = {97FC0935-7A91-42DF-8703-2B4220F81259}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
