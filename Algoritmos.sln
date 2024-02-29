@@ -16,6 +16,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesesTestSuit", "ValidParenthesesTestSuit\ValidParenthesesTestSuit.csproj", "{2DD7468C-7F3D-4BD1-88F9-C5A5AE9D064A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValidateStackSequences", "ValidateStackSequences", "{50FEA930-2996-4908-9EE7-03D0A2302CC3}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateStackSequencesAlgorithm", "ValidateStackSequencesAlgorithm\ValidateStackSequencesAlgorithm.csproj", "{A7C5901E-CCEA-48FE-852A-36B40CB94445}"
 EndProject
