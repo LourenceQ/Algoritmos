@@ -3,17 +3,16 @@ public static class TwoSum
 {
     public static int[] Validate(int[] nums, int target)
     {
-        for (int i = 0; i < nums.Length - 1; i++)
+        for (int i = 0; i < nums.Length; i++)
         {
-            for (int j = 0; i < nums.Length - 1; i++)
+            for (int j = i + 1; j < nums.Length; j++)
             {
                 if (nums[i] + nums[j] == target)
                 {
-                    return [i, j];
+                    return new int[] { i, j };
                 }
             }
         }
-
-        return new int[2];
+        throw new ArgumentException("No solution found");
     }
 }

@@ -28,6 +28,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwoSum", "TwoSum", "{FE0C3C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumAlgorithm", "TwoSumAlgorithm\TwoSumAlgorithm.csproj", "{945C6880-58AD-46AC-B036-D89F9E620B9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumTestSuit", "TwoSumTestSuit\TwoSumTestSuit.csproj", "{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{945C6880-58AD-46AC-B036-D89F9E620B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{945C6880-58AD-46AC-B036-D89F9E620B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{945C6880-58AD-46AC-B036-D89F9E620B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{A7C5901E-CCEA-48FE-852A-36B40CB94445} = {50FEA930-2996-4908-9EE7-03D0A2302CC3}
 		{B732B87F-CF0C-4821-AC48-DB0A46529E41} = {50FEA930-2996-4908-9EE7-03D0A2302CC3}
 		{945C6880-58AD-46AC-B036-D89F9E620B9E} = {FE0C3C43-E0E6-45CA-89C1-5E00B7922F15}
+		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26} = {FE0C3C43-E0E6-45CA-89C1-5E00B7922F15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
