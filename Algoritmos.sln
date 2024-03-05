@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwoCityScheduling", "TwoCit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCitySchedulingAlgorithm", "TwoCitySchedulingAlgorithm\TwoCitySchedulingAlgorithm.csproj", "{23A9A032-E473-4FED-8B37-2E53D32D00F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCityShcedulingTestSuit", "TwoCityShcedulingTestSuit\TwoCityShcedulingTestSuit.csproj", "{B1EE875F-546A-47AE-8500-B67470C5A430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,10 @@ Global
 		{23A9A032-E473-4FED-8B37-2E53D32D00F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A9A032-E473-4FED-8B37-2E53D32D00F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A9A032-E473-4FED-8B37-2E53D32D00F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EE875F-546A-47AE-8500-B67470C5A430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EE875F-546A-47AE-8500-B67470C5A430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EE875F-546A-47AE-8500-B67470C5A430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EE875F-546A-47AE-8500-B67470C5A430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{945C6880-58AD-46AC-B036-D89F9E620B9E} = {FE0C3C43-E0E6-45CA-89C1-5E00B7922F15}
 		{A7DAA33B-2EFA-404D-B67A-F3F7F91A4D26} = {FE0C3C43-E0E6-45CA-89C1-5E00B7922F15}
 		{23A9A032-E473-4FED-8B37-2E53D32D00F1} = {1CD0301D-AFD6-4805-B446-0A007D797B01}
+		{B1EE875F-546A-47AE-8500-B67470C5A430} = {1CD0301D-AFD6-4805-B446-0A007D797B01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
