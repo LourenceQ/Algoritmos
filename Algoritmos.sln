@@ -44,7 +44,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdMaximumNumberTestSuit"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SummaryRanges", "SummaryRanges", "{5C72FF3C-8AF7-4443-B72A-DC0D0DCC8D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRangesAlgorithm", "SummaryRangesAlgorithm\SummaryRangesAlgorithm.csproj", "{A9B63243-2E45-4708-815F-D659C2E0C442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaryRangesAlgorithm", "SummaryRangesAlgorithm\SummaryRangesAlgorithm.csproj", "{A9B63243-2E45-4708-815F-D659C2E0C442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRangeTestSuit", "SummaryRangeTestSuit\SummaryRangeTestSuit.csproj", "{B43926CB-1028-4DEB-873E-C2F85CA0A46D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -104,6 +106,10 @@ Global
 		{A9B63243-2E45-4708-815F-D659C2E0C442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9B63243-2E45-4708-815F-D659C2E0C442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9B63243-2E45-4708-815F-D659C2E0C442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43926CB-1028-4DEB-873E-C2F85CA0A46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43926CB-1028-4DEB-873E-C2F85CA0A46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43926CB-1028-4DEB-873E-C2F85CA0A46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43926CB-1028-4DEB-873E-C2F85CA0A46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +128,7 @@ Global
 		{6C94E8F5-405E-444E-92C6-CB487FBC3059} = {BE11E393-CBA7-4AE8-920E-C92ADB80F98E}
 		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109} = {BE11E393-CBA7-4AE8-920E-C92ADB80F98E}
 		{A9B63243-2E45-4708-815F-D659C2E0C442} = {5C72FF3C-8AF7-4443-B72A-DC0D0DCC8D96}
+		{B43926CB-1028-4DEB-873E-C2F85CA0A46D} = {5C72FF3C-8AF7-4443-B72A-DC0D0DCC8D96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
