@@ -40,6 +40,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThirdMaximumNumber", "Third
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMaximumNumberAlgorithm", "ThirdMaximumNumberAlgorithm\ThirdMaximumNumberAlgorithm.csproj", "{6C94E8F5-405E-444E-92C6-CB487FBC3059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMaximumNumberTestSuit", "ThirdMaximumNumberTestSuit\ThirdMaximumNumberTestSuit.csproj", "{3F755C5C-7F0C-441B-BAEC-4CFB6B904109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +92,10 @@ Global
 		{6C94E8F5-405E-444E-92C6-CB487FBC3059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C94E8F5-405E-444E-92C6-CB487FBC3059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C94E8F5-405E-444E-92C6-CB487FBC3059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +112,7 @@ Global
 		{23A9A032-E473-4FED-8B37-2E53D32D00F1} = {1CD0301D-AFD6-4805-B446-0A007D797B01}
 		{B1EE875F-546A-47AE-8500-B67470C5A430} = {1CD0301D-AFD6-4805-B446-0A007D797B01}
 		{6C94E8F5-405E-444E-92C6-CB487FBC3059} = {BE11E393-CBA7-4AE8-920E-C92ADB80F98E}
+		{3F755C5C-7F0C-441B-BAEC-4CFB6B904109} = {BE11E393-CBA7-4AE8-920E-C92ADB80F98E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
