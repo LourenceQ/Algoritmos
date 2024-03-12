@@ -2,7 +2,7 @@
 
 public static class SubtractTheProductAndSumOfDigitsOfAnInteger
 {
-    public static int SubtractProductAnsSum(int n)
+    public static int Validate(int n)
     {
         int mult = 1, sum = 0;
 
