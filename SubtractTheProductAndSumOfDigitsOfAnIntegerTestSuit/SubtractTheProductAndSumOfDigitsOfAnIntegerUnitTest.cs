@@ -1,0 +1,6 @@
+﻿namespace SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit;
+
+public class SubtractTheProductAndSumOfDigitsOfAnIntegerUnitTest
+{
+
+}
