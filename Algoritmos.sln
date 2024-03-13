@@ -50,9 +50,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaryRangeTestSuit", "Sum
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SubtractTheProductAndSumOfDigitsOfAnInteger", "SubtractTheProductAndSumOfDigitsOfAnInteger", "{61E56DD7-6CBA-4E86-B6B6-A3A83F364B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm", "SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm\SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm.csproj", "{61833FDA-1B00-4D9C-B99E-DC85681393C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm", "SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm\SubtractTheProductAndSumOfDigitsOfAnIntegerAlgotithm.csproj", "{61833FDA-1B00-4D9C-B99E-DC85681393C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit", "SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit\SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit.csproj", "{3A698D81-7A29-4EC3-BEE4-FE1E2429F723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit", "SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit\SubtractTheProductAndSumOfDigitsOfAnIntegerTestSuit.csproj", "{3A698D81-7A29-4EC3-BEE4-FE1E2429F723}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringToInteger", "StringToInteger", "{F641F8BD-5798-4D12-B1EA-4D6B3F485567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToIntegerAlgorithm", "StringToIntegerAlgorithm\StringToIntegerAlgorithm.csproj", "{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -124,6 +128,10 @@ Global
 		{3A698D81-7A29-4EC3-BEE4-FE1E2429F723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A698D81-7A29-4EC3-BEE4-FE1E2429F723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A698D81-7A29-4EC3-BEE4-FE1E2429F723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +153,7 @@ Global
 		{B43926CB-1028-4DEB-873E-C2F85CA0A46D} = {5C72FF3C-8AF7-4443-B72A-DC0D0DCC8D96}
 		{61833FDA-1B00-4D9C-B99E-DC85681393C2} = {61E56DD7-6CBA-4E86-B6B6-A3A83F364B4B}
 		{3A698D81-7A29-4EC3-BEE4-FE1E2429F723} = {61E56DD7-6CBA-4E86-B6B6-A3A83F364B4B}
+		{EF3D98DA-CAEA-4CE9-9A4D-92792F08196A} = {F641F8BD-5798-4D12-B1EA-4D6B3F485567}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {636DFC8D-DC17-4665-85F4-F6C6DD859AAF}
