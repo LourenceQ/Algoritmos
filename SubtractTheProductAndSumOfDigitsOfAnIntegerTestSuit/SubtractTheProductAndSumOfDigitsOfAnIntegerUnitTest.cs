@@ -13,7 +13,5 @@ public class SubtractTheProductAndSumOfDigitsOfAnIntegerUnitTest
     public void SubtractTheProductAndSumOfDigitsOfAnInteger_Deve_Ser_True(int input, int output)
     {
         SubtractTheProductAndSumOfDigitsOfAnInteger.Validate(input).Should().Be(output);
-        SubtractTheProductAndSumOfDigitsOfAnInteger.Validate(input).Should().Be(output);
-        SubtractTheProductAndSumOfDigitsOfAnInteger.Validate(input).Should().Be(output);
     }
 }
